@@ -1,0 +1,2 @@
+export const FETCH_SAMPLE_DATA = 'FETCH_SAMPLE_DATA'
+export const SET_SAMPLE_DATA = 'SET_SAMPLE_DATA'
